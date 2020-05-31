@@ -30,8 +30,7 @@
 "use-tls":false,
 "use-remote-logging":true,
 "upload-config-on-start":true,
-#urlcc
-"url":"cc:port",
+   "url":"cc:port",
 "worker-id":"workerid",
 "access-token":"token",
 "reboot-cmd":null,
